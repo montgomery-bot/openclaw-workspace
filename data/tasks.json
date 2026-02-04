@@ -805,6 +805,19 @@
         }
       ],
       "completedAt": "2026-02-04T20:27:26.396Z"
+    },
+    {
+      "id": "task_1770236922688",
+      "title": "Add a database",
+      "description": "Implement Drizzle as an ORM and create a basic schema that uses postgres and has a standard user table",
+      "project": "",
+      "tags": [
+        ""
+      ],
+      "subtasks": [],
+      "priority": "medium",
+      "createdAt": "2026-02-04T20:28:42.688Z",
+      "status": "in_progress"
     }
   ],
   "projects": [
@@ -870,7 +883,7 @@
     }
   ],
   "version": 2,
-  "lastUpdated": "2026-02-04T20:27:26.396Z",
+  "lastUpdated": "2026-02-04T20:28:42.688Z",
   "activities": [
     {
       "type": "moved",
