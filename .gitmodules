@@ -1,0 +1,6 @@
+[submodule "acip"]
+	path = acip
+	url = https://github.com/Dicklesworthstone/acip.git
+[submodule "skills/mission-control"]
+	path = skills/mission-control
+	url = https://github.com/rdsthomas/mission-control.git
