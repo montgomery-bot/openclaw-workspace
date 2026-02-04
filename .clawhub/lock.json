@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "skillguard": {
+      "version": "1.0.1",
+      "installedAt": 1770141930716
+    },
+    "prompt-guard": {
+      "version": "2.5.3",
+      "installedAt": 1770141946665
+    }
+  }
+}
