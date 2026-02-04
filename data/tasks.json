@@ -768,6 +768,19 @@
       "priority": "medium",
       "createdAt": "2026-02-04T16:11:00.248Z",
       "status": "in_progress"
+    },
+    {
+      "id": "task_1770221508419",
+      "title": "Init next project",
+      "description": "In the new tailgate.food repo initialize a fresh next.js project",
+      "project": "backend",
+      "tags": [
+        "backend"
+      ],
+      "subtasks": [],
+      "priority": "medium",
+      "createdAt": "2026-02-04T16:11:48.419Z",
+      "status": "in_progress"
     }
   ],
   "projects": [
@@ -833,7 +846,7 @@
     }
   ],
   "version": 2,
-  "lastUpdated": "2026-02-04T16:11:00.248Z",
+  "lastUpdated": "2026-02-04T16:11:48.419Z",
   "activities": [
     {
       "type": "archive",
