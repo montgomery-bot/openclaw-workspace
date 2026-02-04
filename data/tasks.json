@@ -767,7 +767,7 @@
       "subtasks": [],
       "priority": "medium",
       "createdAt": "2026-02-04T16:11:00.248Z",
-      "status": "review",
+      "status": "done",
       "processingStartedAt": null,
       "processing": null,
       "sortOrder": 0,
@@ -778,7 +778,8 @@
           "text": "✅ Repo created: https://github.com/montgomery-bot/tailgate.food",
           "createdAt": "2026-02-04T19:44:49.646877Z"
         }
-      ]
+      ],
+      "completedAt": "2026-02-04T19:46:34.378Z"
     },
     {
       "id": "task_1770221508419",
@@ -860,7 +861,7 @@
     }
   ],
   "version": 2,
-  "lastUpdated": "2026-02-04T19:46:26.619Z",
+  "lastUpdated": "2026-02-04T19:46:34.378Z",
   "activities": [
     {
       "type": "moved",
