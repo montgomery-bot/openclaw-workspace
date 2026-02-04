@@ -770,7 +770,7 @@
       "status": "backlog",
       "processingStartedAt": null,
       "processing": null,
-      "sortOrder": 1
+      "sortOrder": 0
     },
     {
       "id": "task_1770221508419",
@@ -786,7 +786,7 @@
       "status": "backlog",
       "processingStartedAt": null,
       "processing": null,
-      "sortOrder": 0
+      "sortOrder": 1
     }
   ],
   "projects": [
@@ -852,7 +852,7 @@
     }
   ],
   "version": 2,
-  "lastUpdated": "2026-02-04T16:12:38.140Z",
+  "lastUpdated": "2026-02-04T19:06:46.850Z",
   "activities": [
     {
       "type": "moved",
