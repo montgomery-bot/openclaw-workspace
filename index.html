@@ -1022,7 +1022,7 @@
         const CONFIG = {
             owner: detectedOwner,
             repo: detectedRepo,
-            branch: 'main',
+            branch: 'master',
             tasksFile: 'data/tasks.json'
         };
 
@@ -2081,7 +2081,7 @@
             const body = {
                 message: commitMessage || 'Update skills via Mission Control',
                 content,
-                branch: 'main'
+                branch: 'master'
             };
             if (sha) body.sha = sha;
             
